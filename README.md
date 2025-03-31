@@ -1,3 +1,5 @@
+#**Human AI**
+
 # AI-Powered Behavioral Analysis for Suicide Prevention, Substance Use, and Mental Health Crisis Detection with Longitudinal Geospatial Crisis Trend Analysis
 # **Description**
 
@@ -51,6 +53,12 @@ Conducted time-series analysis to track crisis trends over time.
 Visualized regional distress patterns by location and date.
 
 This systematic approach ensured efficient data extraction, crisis classification, and geospatial visualization for mental health crisis detection using Reddit API. 
+
+**heatmap of crisis discussions**
+![HeatMap](https://github.com/Shubhamx404/AI-Powered-Behavioral-Analysis/blob/main/Screenshot%202025-03-31%20034005.png)
+
+**visualization of regional distress patterns**
+![Distress](https://github.com/Shubhamx404/AI-Powered-Behavioral-Analysis/blob/main/download%20(3).png)
 
 # Future endeavours
 
