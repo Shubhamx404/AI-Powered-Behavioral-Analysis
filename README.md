@@ -60,6 +60,9 @@ This systematic approach ensured efficient data extraction, crisis classificatio
 **visualization of regional distress patterns**
 ![Distress](https://github.com/Shubhamx404/AI-Powered-Behavioral-Analysis/blob/main/download%20(3).png)
 
+**Colab File**
+[Colab](https://drive.google.com/file/d/1zq5y8IauiS7UPwvFXBem_yOvsOunxm8H/view?usp=sharing)
+
 # Future endeavours
 
 **Real-Time Crisis Monitoring System:**Develop a real-time dashboard for continuous monitoring of crisis discussions.
