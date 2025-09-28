@@ -1,4 +1,3 @@
-#**Human AI**
 
 # AI-Powered Behavioral Analysis for Suicide Prevention, Substance Use, and Mental Health Crisis Detection with Longitudinal Geospatial Crisis Trend Analysis
 # **Description**
@@ -13,8 +12,6 @@ Public health agencies and crisis service providers face challenges in detecting
 
 These insights can help service providers predict areas of growing crisis and proactively allocate resources to where they are needed most.
 
-# Task Name:
-Human AI Project Tests for Prospective GSoC 2025 Applicants
 
 # Approaching the Task:
 **Data Extraction:**
